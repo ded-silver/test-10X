@@ -1,0 +1,16 @@
+{
+  "name": "test-10x",
+  "version": "1.0.0",
+  "description": "Test task for 10X - Card catalog with search and filters",
+  "scripts": {
+    "sass": "sass styles/main.scss styles/main.css --watch",
+    "sass:build": "sass styles/main.scss styles/main.css --style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
+
